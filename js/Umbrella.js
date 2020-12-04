@@ -14,6 +14,6 @@ World.add(world , this.body)
        /*ellipseMode(RADIUS)
 fill("red")
 ellipse(pos.x,pos.y,40)*/
-image(manI,pos.x-70,pos.y-75,144,250)
+image(manI,pos.x-95,pos.y-85,144,250)
     }
 }
